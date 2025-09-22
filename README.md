@@ -1,2 +1,2 @@
-# ELEC-292-Project
+# Activity Classification Tracker
 Repository for ELEC 292 Electrical Engineering project containing project report and source code
